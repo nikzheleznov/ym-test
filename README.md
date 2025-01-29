@@ -1,5 +1,25 @@
-# Vue 3 + TypeScript + Vite
+# 🎬 ym-test
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 📌 Project Description
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+`ym-test` is a Vue 3 application for browsing and booking movie tickets. Users can:
+
+- View a list of movies.
+- Search for movies by name and genres.
+- See available showtimes and book tickets.
+- Select multiple genres for filtering.
+
+---
+
+## 🚀 Tech Stack
+
+- **Vue 3** (`vue`): Core framework for building the application.
+- **Vue Router** (`vue-router`): Handles client-side routing.
+- **Pinia** (`pinia`): Lightweight state management.
+- **Vite** (`vite`): Fast build tool for modern frontend development.
+- **TypeScript** (`typescript`): Type-safe development.
+- **Tailwind CSS** (`tailwindcss`): Utility-first CSS framework.
+- **PostCSS** (`postcss`): CSS transformations.
+- **Axios** (`axios`): HTTP client for API requests.
+- **Vue Multiselect** (`vue-multiselect`): Multi-select dropdown for genres.
+- **Shadcn Vue** (`shadcn-vue`): Vue 3 components library
